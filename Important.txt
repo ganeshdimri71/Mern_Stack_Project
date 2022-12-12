@@ -1,0 +1,23 @@
+mongodb+srv://ganeshdimri71:<password>@cluster0.txbdg4t.mongodb.net/?retryWrites=true&w=majority
+ganeshdimri71
+diIyJpF9cVbQefrG
+
+{
+    useNewUrlParser:true,
+    useCreateIndex:true,
+    useUnifiedTopology:true,
+    useFindAndModify:false
+}
+
+{
+      "name":"Product1",
+      "description":"this is a product",
+      "price":1200,
+      "category":"Laptop",
+      "images":{
+          " public_id":" public_id",
+          "url":"sampleurl"
+      }
+   
+       
+}
